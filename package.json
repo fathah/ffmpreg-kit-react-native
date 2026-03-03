@@ -1,6 +1,6 @@
 {
   "name": "@fathah_cr/react-native-ffmpeg-kit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "FFmpeg Kit for React Native",
   "files": [
     "src",
