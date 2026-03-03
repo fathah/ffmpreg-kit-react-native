@@ -1,7 +1,14 @@
 {
   "name": "@fathah_cr/react-native-ffmpeg-kit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "FFmpeg Kit for React Native",
+  "files": [
+    "src",
+    "android",
+    "ios",
+    "ffmpeg-kit-react-native.podspec",
+    "README.md"
+  ],
   "main": "src/index",
   "types": "src/index.d.ts",
   "react-native": "src/index",

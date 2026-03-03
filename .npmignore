@@ -1,1 +1,9 @@
 node_modules
+.git
+.gitignore
+.gitattributes
+.editorconfig
+babel.config.js
+package-lock.json
+*.tgz
+ffmpreg-kit/
