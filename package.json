@@ -18,13 +18,12 @@
     "ffmpeg-kit",
     "ios"
   ],
-  "repository": "https://github.com/arthenica/ffmpeg-kit",
-  "author": "ARTHENICA <open-source@arthenica.com> (https://www.arthenica.com)",
+  "repository": "https://github.com/fathah/ffmpreg-kit-react-native",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/arthenica/ffmpeg-kit/issues"
+    "url": "https://github.com/fathah/ffmpreg-kit-react-native/issues"
   },
-  "homepage": "https://github.com/arthenica/ffmpeg-kit",
+  "homepage": "https://github.com/fathah/ffmpreg-kit-react-native",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
