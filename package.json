@@ -1,18 +1,19 @@
 {
   "name": "@fathah_cr/react-native-ffmpeg-kit",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "FFmpeg Kit for React Native",
   "files": [
     "src",
     "android",
     "ios",
-    "ffmpeg-kit-react-native.podspec",
+    "react-native-ffmpeg-kit.podspec",
     "README.md"
   ],
   "main": "src/index",
   "types": "src/index.d.ts",
   "react-native": "src/index",
   "source": "src/index",
+  "author": "ARTHENICA <open-source@arthenica.com> (https://www.arthenica.com)",
   "scripts": {
     "test": "jest",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",

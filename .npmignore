@@ -7,3 +7,10 @@ babel.config.js
 package-lock.json
 *.tgz
 ffmpreg-kit/
+/.github
+/android/.gradle/
+/.gradle/
+/TestApp
+/android/build
+/ios/build
+xcuserdata*
